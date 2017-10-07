@@ -1,1 +1,13 @@
-foo
+{
+    "context" : {
+        "login" : {
+            "description" : "Welcome Back! Enter by using your username and password."
+        },
+        "database" : {
+            "description" : "Manage your users, add and remove them from your database."
+        },
+        "remove-warning" : {
+            "description" : "Are you sure do you want to remove this user from your database? This action cannot be undone."
+        }
+    }
+}
